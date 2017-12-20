@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "C30BD451-6C1A-4AE2-B159-333B7DE2634E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 185,
+    "x": 415,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3686CBF7-309D-477B-9456-1D266B0D2C88"
+    },
+    {
+      "class": "text",
+      "id": "15BB8970-9954-47FE-A9AD-4CE6C674DB22"
+    }
+  ],
+  "name": "btn: 事前登録",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
