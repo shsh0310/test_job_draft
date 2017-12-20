@@ -34,5 +34,10 @@
   "pages": [
     "Page 1",
     "Symbols"
-  ]
+  ],
+  "userInfo": {
+    "com.plant.plantplugin": {
+      "plant_doc_id": "9068404B-0294-4D76-9EAB-59DE059D30E3"
+    }
+  }
 }
