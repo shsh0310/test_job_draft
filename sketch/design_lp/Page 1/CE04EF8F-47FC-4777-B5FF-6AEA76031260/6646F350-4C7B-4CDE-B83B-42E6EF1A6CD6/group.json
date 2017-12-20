@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "6646F350-4C7B-4CDE-B83B-42E6EF1A6CD6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 92,
+    "width": 600,
+    "x": 339,
+    "y": 478
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9778AB28-FB0B-4995-AE85-E59307F2A655"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A026C6F1-C09A-42DB-97AE-96A91373A88B"
+    },
+    {
+      "class": "group",
+      "id": "C30BD451-6C1A-4AE2-B159-333B7DE2634E"
+    }
+  ],
+  "name": "Rectangle 38 + 事前登録",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

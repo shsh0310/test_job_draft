@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "FAFDBFAF-4CE7-477F-8B90-BC4236A0468E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 273,
+    "width": 1200,
+    "x": 0,
+    "y": 767
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "11570D4A-E448-4DC4-A0AF-E49A5183D1DA"
+    },
+    {
+      "class": "text",
+      "id": "D6C55D49-090D-4591-858D-B473224F89B2"
+    },
+    {
+      "class": "text",
+      "id": "89650E05-4D76-45ED-9035-761FF31166A2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "59A73526-0459-44F2-A7A3-B9EBC10FB4D6"
+    },
+    {
+      "class": "text",
+      "id": "00FDC179-E228-4686-8BA5-75326AC2D948"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A05242EE-FBC6-4498-97E0-03D95D9CA8C2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D3A58BF5-434B-4B22-ADDF-C607CC95E084"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "617E5860-D89E-446D-BDAA-74374AB41194"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE0542F7-0CA4-44B9-A419-58FCFD573EEF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FD6676E6-E51F-48EF-94B8-9591DDD20392"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ACB41BFB-9755-4B90-B974-4B366E7834C7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A58A1092-004A-4362-ABB1-88D4119C4CD2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "73A44EF8-66BD-4425-98DF-25A3BF14F13B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C660746F-A116-4E67-AF51-B28760CB988E"
+    },
+    {
+      "class": "group",
+      "id": "7BA04837-9552-4CE4-9B56-5E5B57AB22D0"
+    }
+  ],
+  "name": "Footer",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
